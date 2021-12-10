@@ -3,7 +3,7 @@
 colabs to demonstrate frequent pattern mining for:
 
 * Apriori
-* Apgrowth
+* Fpgrowth
 
 
 ## Apriori
